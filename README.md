@@ -1,6 +1,6 @@
 # wastenot
 
-A new Flutter project.
+A place where you can donate food.
 
 ## Getting Started
 

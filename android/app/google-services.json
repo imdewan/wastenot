@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "861831268733",
+    "project_id": "wastenot-org",
+    "storage_bucket": "wastenot-org.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861831268733:android:1e71057f34d47362356414",
+        "android_client_info": {
+          "package_name": "com.example.wastenot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861831268733-9k5alnnu2bfm1pspp4dhov112artdv78.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFr3x152nAhstsp2EQo8Rel6zGRVclYtA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "861831268733-9k5alnnu2bfm1pspp4dhov112artdv78.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
